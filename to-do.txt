@@ -1,0 +1,7 @@
+Figure out how to weed out the emails that we don't want.
+
+Maybe we want to specify a time.
+
+Next technical step:
+- Pick out the ticker from 
+- Pick out the correct hyper link, which we can then use Selenium to iterate Chrome searches
